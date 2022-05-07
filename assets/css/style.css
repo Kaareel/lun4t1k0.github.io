@@ -392,3 +392,8 @@ a:hover {
 #contact .btn {
     width: 100%;
 }
+footer{
+background-color: black;
+color: white;
+padding-top: 10px;
+}
